@@ -1,0 +1,3 @@
+/Users/vayentha/CLionProjects/drummy32/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vayentha/CLionProjects/drummy32/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vayentha/CLionProjects/drummy32/cmake-build-debug/CMakeFiles/drummy32.dir
